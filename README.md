@@ -14,3 +14,8 @@ You are required to write a script server-stats.sh that can analyse basic server
   
 Stretch goal: Feel free to optionally add more stats such as os version, uptime, load average, logged in users, failed login attempts etc.
 
+## References
+[1] [How To Use awk In Bash Scripting](https://www.cyberciti.biz/faq/bash-scripting-using-awk/)
+
+[2] [Building a Bash Script to Monitor Server Performance: My Journey](https://medium.com/@basitjawaid123/building-a-bash-script-to-monitor-server-performance-my-journey-891e68b13a49)
+
